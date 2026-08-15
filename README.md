@@ -77,3 +77,10 @@ The visual sitemap hierarchy illustrates the parent-to-child relationship betwee
                                                             |  Cape Town  |           | Johannesburg|
                                                             |   Studio    |           |   Pop-Up    |
                                                             +-------------+           +-------------+
+ Google Fonts (2026). Montserrat & Inter Typeface Pairings. Available at: https://fonts.google.com (Accessed: 15 August 2026).
+
+Unsplash (2026). Urban Fashion and Streetwear Photography Collection. Available at: https://unsplash.com (Accessed: 15 August 2026).
+
+W3C (2023). HTML5 Semantic Elements Specification. Available at: https://www.w3.org/TR/html52/ (Accessed: 15 August 2026).
+
+World Wide Web Consortium (2024). Web Content Accessibility Guidelines (WCAG) 2.2. Available at: https://www.w3.org/WAI/standards-guidelines/wcag/ (Accessed: 15 August 2026).                                                           
