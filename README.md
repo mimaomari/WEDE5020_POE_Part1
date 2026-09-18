@@ -106,9 +106,9 @@ The application was tested across three viewports using browser DevTools:
 - **Mobile (<= 600px):** Single-column stacked layout, touch-friendly navigation links.
 
 ### Visual Evidence:
-![Desktop View](screenshots/desktop-view.png)
-![Tablet View](screenshots/tablet-view.png)
-![Mobile View](screenshots/mobile-view.png)
+![Desktop View](screenshots/desktop%20view.PNG)
+![Tablet View](screenshots/tablet%20view.PNG)
+![Mobile View](screenshots/mobile%20view.PNG)
 
 ## 4. References
 - Mozilla Developer Network (MDN). (2024). *CSS Grid Layout*. Available at: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_grid_layout (Accessed: 18 September 2026).
